@@ -1,0 +1,16 @@
+{
+  "name": "dbchess",
+  "version": "1.0.0",
+  "description": "Server for DBCHESS",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "davidbjorklund",
+  "license": "ISC"
+}
